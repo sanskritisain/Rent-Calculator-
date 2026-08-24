@@ -1,6 +1,7 @@
 # 🏠 Rent Calculator
 
 A simple **Python-based Rent Calculator** that helps calculate the total monthly living expenses and the amount each person needs to contribute when sharing a house or accommodation.
+#project website link: https://sazuu8uu5-rent-calculator.streamlit.app/
 
 ## 📌 Project Overview
 
@@ -119,7 +120,7 @@ The project can be enhanced by adding:
 
 ## 👩‍💻 Author
 
-**Sanskriti Sen**
+**Sanskriti Sain**
 
 B.Tech – Computer Science & Engineering (Artificial Intelligence)
 
